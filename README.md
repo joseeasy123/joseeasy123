@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @joseeasy123
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning to be a software engineer
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jose555destroyer@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I lift weights
-- Im open to learn with new people
-<!---
-joseeasy123/joseeasy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi, I'm Jose Velez Clavell! <br/><a href="https://github.com/joshmadakor1">Programmer, Learner,Looking for Opportunities</a> <a href="https://www.linkedin.com/in/jose-velez-clavell/"></a>
+<h2>👨‍💻 Software Development Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/josevelezcode
+[instagram]: https://www.instagram.com/jose2004antonio/
+[linkedin]: https://linkedin.com/in/josevelezclavell
