@@ -10,4 +10,4 @@
 
 [twitter]: https://twitter.com/josevelezcode
 [instagram]: https://www.instagram.com/jose2004antonio/
-[linkedin]: https://linkedin.com/in/josevelezclavell
+[linkedin]: https://linkedin.com/in/jose-velez-clavell
