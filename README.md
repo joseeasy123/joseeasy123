@@ -5,7 +5,7 @@
 - 📫 How to reach me jose555destroyer@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I lift weights
-
+- Im open to learn with new people
 <!---
 joseeasy123/joseeasy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
